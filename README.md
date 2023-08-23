@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - ⚡ Fun fact: ...
 -->
-[![MasterHead]([https://i.ibb.co/3dHZ9cw/banner-el-bicho.png](https://wallpapersmug.com/download/2560x1080/805296/artwork-lionel-messi.jpg))](https://github.com/Alberte98)
+[![MasterHead]((https://wallpapersmug.com/download/2560x1080/805296/artwork-lionel-messi.jpg))](https://github.com/Alberte98)
 ***
 [![trophy](https://github-profile-trophy.vercel.app/?username=Alberte98&theme=darkhub)](https://github.com/Alberte98/github-profile-trophy)
 ***
